@@ -22,7 +22,7 @@
             <br>
           <a href="https://en.wikipedia.org/wiki/Hamster" target="_blank"> Hamster Wikipedia Page </a>
       </section>
-          <hr>
+          <br>
       <section>
         <table>
           <tr> <th> Hamsters </th> <th> Species </th></tr>
